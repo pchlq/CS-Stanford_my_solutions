@@ -1,1 +1,1 @@
-# SC-Stanford_my_solutions
+# CS-Stanford_my_solutions
